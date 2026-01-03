@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Chris Pang的生鮮電商產品企劃筆記"
 title_separator          : "-"
 subtitle                 : "把生鮮食品做成穩定可賣的產品線"
-name                     : "產品企劃／開發 & 管理職"
+name                     : "Chris Pang"
 description              : "聚焦生鮮食品電商的商品企劃開發：供應端協作、品控與食安、商品規格設計、商業化節奏，以及團隊專案管理。"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
